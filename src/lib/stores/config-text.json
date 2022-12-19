@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat is the statistical office of the European Union, responsible for publishing high-quality Europe-wide statistics and indicators that enable comparisons between countries and regions.",
+  "textNote": "Ireland, Greece: data not available.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Click for more info"
