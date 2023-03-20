@@ -1,12 +1,12 @@
 {
-  "heading": "De loonkloof tussen mannen en vrouwen in de EU-landen",
-  "subheading": "De verschillen in gemiddeld bruto-uurloon tussen mannelijke en vrouwelijke betaalde werknemers uitgedrukt als percentage van het gemiddelde bruto-uurloon van mannelijke betaalde werknemers. EU-gemiddelde: 13%",
+  "heading": "De loonkloof tussen mannen en vrouwen in de EU-landen in 2021",
+  "subheading": "De verschillen in gemiddeld bruto-uurloon tussen mannelijke en vrouwelijke betaalde werknemers uitgedrukt als percentage van het gemiddelde bruto-uurloon van mannelijke betaalde werknemers. EU-gemiddelde: 12,7%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie, verantwoordelijk voor het publiceren van hoogwaardige Europese statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Ierland, Griekenland: geen gegevens beschikbaar.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Klik voor meer info"

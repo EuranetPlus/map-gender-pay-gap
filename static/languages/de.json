@@ -1,12 +1,12 @@
 {
-  "heading": "Geschlechtsspezifisches Lohngefälle in den EU-Ländern",
-  "subheading": "Die Unterschiede im durchschnittlichen Bruttostundenlohn zwischen männlichen und weiblichen Erwerbstätigen, ausgedrückt als Prozentsatz des durchschnittlichen Bruttostundenlohns männlicher Erwerbstätiger. EU-Durchschnitt: 13 %",
+  "heading": "Geschlechtsspezifisches Lohngefälle in den EU-Ländern im Jahr 2021",
+  "subheading": "Die Unterschiede im durchschnittlichen Bruttostundenlohn zwischen männlichen und weiblichen Erwerbstätigen, ausgedrückt als Prozentsatz des durchschnittlichen Bruttostundenlohns männlicher Erwerbstätiger. EU-Durchschnitt: 12,7 %",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textNote": "Irland, Griechenland: Daten nicht verfügbar.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Klicken Sie für weitere Informationen"

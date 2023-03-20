@@ -1,12 +1,12 @@
 {
-  "heading": "Sooline palgalõhe ELi riikides",
-  "subheading": "Palgaliste mees- ja naistöötajate keskmise brutotunnipalga erinevused on väljendatud protsendina meessoost palgatöötajate keskmisest brutotunnipalgast. ELi keskmine: 13%",
+  "heading": "Sooline palgalõhe ELi riikides 2021. aastal",
+  "subheading": "Palgaliste mees- ja naistöötajate keskmise brutotunnipalga erinevused on väljendatud protsendina meessoost palgatöötajate keskmisest brutotunnipalgast. ELi keskmine: 12,7%",
   "legend1": "Andmed puuduvad",
   "tooltip1": "",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis vastutab kvaliteetse üleeuroopalise statistika ja näitajate avaldamise eest, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
+  "textNote": "Iirimaa, Kreeka: andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

@@ -1,12 +1,12 @@
 {
-  "heading": "Divario retributivo di genere nei paesi dell'UE",
-  "subheading": "Le differenze nella retribuzione oraria lorda media tra lavoratori salariati maschi e femmine espresse in percentuale della retribuzione oraria lorda media dei lavoratori salariati maschi. Media UE: 13%",
+  "heading": "Divario retributivo di genere nei paesi dell'UE nel 2021",
+  "subheading": "Le differenze nella retribuzione oraria lorda media tra lavoratori salariati maschi e femmine espresse in percentuale della retribuzione oraria lorda media dei lavoratori salariati maschi. Media UE: 12,7%",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat è l'ufficio statistico dell'Unione europea, responsabile della pubblicazione di statistiche e indicatori di alta qualità a livello europeo che consentono confronti tra paesi e regioni.",
+  "textNote": "Irlanda, Grecia: dati non disponibili.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"

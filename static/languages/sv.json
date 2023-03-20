@@ -1,12 +1,12 @@
 {
-  "heading": "Löneskillnad mellan könen mellan EU-länderna",
-  "subheading": "Skillnaderna i genomsnittlig bruttotimlön mellan manliga och kvinnliga betalda arbetare uttryckt i procent av den genomsnittliga bruttotimlönen för manliga betalda arbetare. EU-genomsnitt: 13 %",
+  "heading": "Löneskillnad mellan könen mellan EU-länderna 2021",
+  "subheading": "Skillnaderna i genomsnittlig bruttotimlön mellan manliga och kvinnliga avlönade arbetare uttryckt i procent av den genomsnittliga bruttotimlönen för manliga avlönade arbetare. EU-genomsnitt: 12,7 %",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Eurostat är Europeiska unionens statistikkontor, som ansvarar för att publicera högkvalitativ europeisk statistik och indikatorer som möjliggör jämförelser mellan länder och regioner.",
+  "textNote": "Irland, Grekland: uppgifter saknas.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Klicka för mer info"

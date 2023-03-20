@@ -1,12 +1,12 @@
 {
-  "heading": "Brecha salarial de género en los países de la UE",
-  "subheading": "Las diferencias en el salario medio bruto por hora entre los trabajadores remunerados de sexo masculino y femenino expresadas como porcentaje del salario bruto promedio por hora de los trabajadores remunerados de sexo masculino. Media UE: 13 %",
+  "heading": "Brecha salarial de género en los países de la UE en 2021",
+  "subheading": "Las diferencias en los salarios brutos medios por hora entre los trabajadores remunerados de sexo masculino y femenino expresadas como porcentaje de los salarios brutos promedio por hora de los trabajadores remunerados de sexo masculino. Media UE: 12,7 %",
   "legend1": "Datos no disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permiten realizar comparaciones entre países y regiones.",
+  "textNote": "Irlanda, Grecia: datos no disponibles.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Haga clic para obtener más información"

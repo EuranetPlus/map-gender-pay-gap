@@ -1,12 +1,12 @@
 {
-  "heading": "Rozdíl v odměňování žen a mužů v zemích EU",
-  "subheading": "Rozdíly v průměrné hrubé hodinové mzdě mezi placenými muži a ženami vyjádřené jako procento průměrné hrubé hodinové mzdy placených mužů. Průměr EU: 13 %",
+  "heading": "Rozdíl v odměňování žen a mužů v zemích EU v roce 2021",
+  "subheading": "Rozdíly v průměrné hrubé hodinové mzdě mezi placenými muži a ženami vyjádřené jako procento průměrné hrubé hodinové mzdy placených mužů. Průměr EU: 12,7 %",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je statistický úřad Evropské unie odpovědný za zveřejňování vysoce kvalitních celoevropských statistik a ukazatelů, které umožňují srovnání mezi zeměmi a regiony.",
+  "textNote": "Irsko, Řecko: údaje nejsou k dispozici.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=cs",
   "textCountryClick": "Klikněte pro více informací"

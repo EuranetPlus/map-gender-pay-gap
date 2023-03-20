@@ -1,12 +1,12 @@
 {
-  "heading": "Razlika v plačah med spoloma v državah EU",
-  "subheading": "Razlike v povprečni bruto urni postavki med delavci in delavkami, izražene v odstotkih povprečne bruto urne postavke delavcev. Povprečje EU: 13 %",
+  "heading": "Razlika v plačah med spoloma v državah EU leta 2021",
+  "subheading": "Razlike v povprečni bruto urni postavki med delavci in delavkami, izražene v odstotkih povprečne bruto urne postavke delavcev. Povprečje EU: 12,7 %",
   "legend1": "Ni podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavo visokokakovostnih vseevropskih statistik in kazalnikov, ki omogočajo primerjave med državami in regijami.",
+  "textNote": "Irska, Grčija: podatki niso na voljo.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

@@ -1,12 +1,12 @@
 {
-  "heading": "Lønforskelle mellem kønnene på tværs af EU-lande",
-  "subheading": "Forskellene i den gennemsnitlige bruttotimeløn mellem mandlige og kvindelige lønnede arbejdere udtrykt som en procentdel af den gennemsnitlige bruttotimeløn for mandlige lønnede. EU-gennemsnit: 13 %",
+  "heading": "Lønforskelle mellem kønnene på tværs af EU-lande i 2021",
+  "subheading": "Forskellene i den gennemsnitlige bruttotimeløn mellem mandlige og kvindelige lønnede arbejdere udtrykt som en procentdel af den gennemsnitlige bruttotimeløn for mandlige lønnede. EU-gennemsnit: 12,7 %",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textNote": "Irland, Grækenland: data ikke tilgængelige.",
   "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=da",
   "textCountryClick": "Klik for mere info"

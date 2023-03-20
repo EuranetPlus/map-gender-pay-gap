@@ -1,12 +1,12 @@
 {
-  "heading": "Disparidades salariais entre homens e mulheres nos países da UE",
-  "subheading": "As diferenças nos salários médios brutos por hora entre trabalhadores assalariados masculinos e femininos expressas como uma porcentagem dos salários brutos médios por hora dos trabalhadores assalariados masculinos. Média da UE: 13%",
+  "heading": "Disparidades salariais entre homens e mulheres nos países da UE em 2021",
+  "subheading": "As diferenças nos salários médios brutos por hora entre trabalhadores assalariados masculinos e femininos expressas como uma porcentagem dos salários brutos médios por hora dos trabalhadores assalariados masculinos. Média da UE: 12,7%",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o escritório de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores europeus de alta qualidade que permitem comparações entre países e regiões.",
+  "textNote": "Irlanda, Grécia: dados não disponíveis.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

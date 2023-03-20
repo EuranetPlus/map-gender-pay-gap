@@ -1,12 +1,12 @@
 {
-  "heading": "Écart de rémunération entre les hommes et les femmes dans les pays de l'UE",
-  "subheading": "Les différences de salaires horaires bruts moyens entre les hommes et les femmes salariés exprimées en pourcentage des salaires horaires bruts moyens des hommes salariés. Moyenne de l'UE : 13 %",
+  "heading": "Écart de rémunération entre les hommes et les femmes dans les pays de l'UE en 2021",
+  "subheading": "Les différences de salaires horaires bruts moyens entre les hommes et les femmes salariés exprimées en pourcentage des salaires horaires bruts moyens des hommes salariés. Moyenne de l'UE : 12,7 %",
   "legend1": "Pas de données disponibles",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
-  "textNoteDescription": "Noter",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, responsable de la publication de statistiques et d'indicateurs européens de haute qualité permettant des comparaisons entre pays et régions.",
+  "textNoteDescription": "Note",
+  "textNote": "Irlande, Grèce : données non disponibles.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
