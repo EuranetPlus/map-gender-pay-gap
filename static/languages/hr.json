@@ -1,12 +1,12 @@
 {
-  "heading": "Rodni jaz u plaćama u zemljama EU-a 2021",
+  "heading": "Rodni jaz u plaćama u zemljama EU-a 2022",
   "subheading": "Razlike u prosječnim bruto plaćama po satu između plaćenih radnika i žena izražene kao postotak prosječnih bruto plaća po satu plaćenih radnika. EU prosjek: 12,7%",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Irska, Grčka: podaci nisu dostupni.",
+  "textNote": "Nema dostupnih podataka za Grčku.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

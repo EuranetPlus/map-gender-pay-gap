@@ -1,12 +1,12 @@
 {
-  "heading": "Zróżnicowanie wynagrodzenia ze względu na płeć w krajach UE w 2021 r",
-  "subheading": "Różnice w średnich stawkach godzinowych brutto między pracownikami płci męskiej i żeńskiej, wyrażone jako procent średniego wynagrodzenia godzinowego brutto pracowników płci męskiej. Średnia UE: 12,7%",
+  "heading": "Różnica w wynagrodzeniach kobiet i mężczyzn w krajach UE w 2022 r.",
+  "subheading": "Różnice w średnich stawkach godzinowych brutto między pracownikami płci męskiej i żeńskiej wyrażone jako procent średnich stawek godzinowych brutto pracowników płci męskiej. Średnia UE: 12,7%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Irlandia, Grecja: brak danych.",
+  "textNote": "Brak danych dla Grecji.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

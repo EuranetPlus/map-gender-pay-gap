@@ -1,12 +1,12 @@
 {
-  "heading": "Diferența de remunerare între femei și bărbați în țările UE în 2021",
-  "subheading": "Diferențele în salariul mediu brut pe oră între lucrătorii bărbați și femeile plătiți sunt exprimate ca procent din salariul mediu brut pe oră al lucrătorilor bărbați plătiți. Media UE: 12,7%",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Diferența de remunerare între femei și bărbați în țările UE în 2022",
+  "subheading": "Diferențele în salariul mediu brut pe oră între lucrătorii plătiți de sex masculin și feminin, exprimate ca procent din salariul mediu brut pe oră al lucrătorilor plătiți de sex masculin. Media UE: 12,7%",
+  "legend1": "Nu există date disponibile",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Irlanda, Grecia: date nu sunt disponibile.",
+  "textNoteDescription": "Nota",
+  "textNote": "Nu există date disponibile pentru Grecia.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"

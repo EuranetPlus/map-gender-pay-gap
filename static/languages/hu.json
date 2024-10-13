@@ -1,12 +1,12 @@
 {
-  "heading": "A nemek közötti bérszakadék az uniós országok között 2021-ben",
+  "heading": "Nemek közötti bérszakadék az uniós országok között 2022-ben",
   "subheading": "A fizetett férfi és női munkavállalók átlagos bruttó órabére közötti különbségek a fizetett férfi munkavállalók átlagos bruttó órabérének százalékában kifejezve. EU-átlag: 12,7%",
-  "legend1": "Nincs elérhető adat",
+  "legend1": "Nincs adat",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Írország, Görögország: adatok nem állnak rendelkezésre.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Görögországra vonatkozóan nem állnak rendelkezésre adatok.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "További információért kattintson"
