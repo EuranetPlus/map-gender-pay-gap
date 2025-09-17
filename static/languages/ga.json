@@ -1,13 +1,13 @@
 {
-  "heading": "Bearna pá inscne ar fud thíortha an AE in 2022",
-  "subheading": "Léirítear na difríochtaí i meánphá comhlán in aghaidh na huaire idir oibrithe íoctha fireanna agus baineanna mar chéatadán de mheánphá comhlán in aghaidh na huaire na n-oibrithe fireanna ar phá. Meán an AE: 12.7%",
+  "heading": "Bearna pá inscne i dtíortha an AE in 2022",
+  "subheading": "Na difríochtaí i meánphá comhlán in aghaidh na huaire idir oibrithe fireann agus baineann arna léiriú mar chéatadán de mheánphá comhlán in aghaidh na huaire d’oibrithe fireann. Meán an AE: 12.7%",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "Níl aon sonraí ar fáil don Ghréig.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=ga",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

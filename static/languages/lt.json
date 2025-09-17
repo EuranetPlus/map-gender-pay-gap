@@ -1,13 +1,13 @@
 {
-  "heading": "Lyčių darbo užmokesčio skirtumas ES šalyse 2022 m",
-  "subheading": "Apmokamų darbuotojų vyrų ir moterų vidutinio bruto valandinio darbo užmokesčio skirtumai, išreikšti vyrų apmokamų darbuotojų vidutinio valandinio bruto darbo užmokesčio procentais. ES vidurkis: 12,7 proc.",
+  "heading": "Lyčių darbo užmokesčio skirtumas ES šalyse 2022 m.",
+  "subheading": "Vidutinio valandinio bruto darbo užmokesčio skirtumai tarp apmokamų vyrų ir moterų, išreikšti procentais nuo vidutinio valandinio vyrų bruto darbo užmokesčio. ES vidurkis: 12,7 %.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Nėra duomenų apie Graikiją.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Graikijos duomenų nėra.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

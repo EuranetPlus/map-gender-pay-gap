@@ -1,6 +1,6 @@
 {
-  "heading": "Rozdiely v odmeňovaní žien a mužov v krajinách EÚ v roku 2022",
-  "subheading": "Rozdiely v priemernej hrubej hodinovej mzde medzi platenými mužmi a ženami vyjadrené ako percento priemernej hrubej hodinovej mzdy platených mužov. Priemer EÚ: 12,7 %",
+  "heading": "Rozdiel v odmeňovaní mužov a žien v krajinách EÚ v roku 2022",
+  "subheading": "Rozdiely v priemerných hrubých hodinových mzdách medzi mužmi a ženami vyjadrené ako percento z priemerných hrubých hodinových mzdy mužov. Priemer EÚ: 12,7 %",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Pre Grécko nie sú k dispozícii žiadne údaje.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

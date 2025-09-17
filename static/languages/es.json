@@ -1,6 +1,6 @@
 {
   "heading": "Brecha salarial de género en los países de la UE en 2022",
-  "subheading": "Diferencias en los salarios medios brutos por hora entre trabajadores asalariados hombres y mujeres expresadas como porcentaje de los salarios medios brutos por hora de los trabajadores asalariados hombres. Media UE: 12,7 %",
+  "subheading": "Diferencias en el salario bruto medio por hora entre trabajadores asalariados, hombres y mujeres, expresadas como porcentaje del salario bruto medio por hora de los trabajadores asalariados. Media de la UE: 12,7 %.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "No hay datos disponibles para Grecia.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

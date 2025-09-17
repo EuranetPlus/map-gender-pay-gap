@@ -1,13 +1,13 @@
 {
-  "heading": "Sukupuolten palkkaerot EU-maissa vuonna 2022",
-  "subheading": "Mies- ja naispalkkaisten keskimääräisten bruttotuntipalkkojen erot ilmaistuna prosentteina miespalkkaisten työntekijöiden keskimääräisestä bruttotuntipalkoista. EU:n keskiarvo: 12,7 %",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Sukupuolten palkkaero EU-maissa vuonna 2022",
+  "subheading": "Mies- ja naispuolisten palkattujen työntekijöiden keskimääräisten bruttotuntipalkkojen erot ilmaistuna prosentteina miespuolisten palkattujen työntekijöiden keskimääräisestä bruttotuntipalkasta. EU:n keskiarvo: 12,7 %",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Huom",
+  "textNoteDescription": "Huomautus",
   "textNote": "Kreikasta ei ole saatavilla tietoja.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

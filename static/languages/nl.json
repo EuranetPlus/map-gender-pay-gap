@@ -1,6 +1,6 @@
 {
-  "heading": "Genderloonkloof in EU-landen in 2022",
-  "subheading": "De verschillen in gemiddelde bruto-uurlonen tussen mannelijke en vrouwelijke betaalde werknemers uitgedrukt als percentage van de gemiddelde bruto-uurlonen van mannelijke betaalde werknemers. EU-gemiddelde: 12,7%",
+  "heading": "Het loonverschil tussen mannen en vrouwen in de EU-landen in 2022",
+  "subheading": "De verschillen in gemiddelde bruto-uurlonen tussen betaalde mannelijke en vrouwelijke werknemers, uitgedrukt als percentage van het gemiddelde bruto-uurloon van betaalde mannelijke werknemers. EU-gemiddelde: 12,7%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "Er zijn geen gegevens beschikbaar voor Griekenland.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }
