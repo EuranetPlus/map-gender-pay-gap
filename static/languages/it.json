@@ -1,12 +1,12 @@
 {
-  "heading": "Divario retributivo di genere nei paesi dell'UE nel 2022",
-  "subheading": "Le differenze nella retribuzione oraria lorda media tra lavoratori retribuiti uomini e donne espresse come percentuale della retribuzione oraria lorda media dei lavoratori retribuiti uomini. Media UE: 12,7%",
+  "heading": "Divario retributivo di genere nei paesi dell'UE nel 2023",
+  "subheading": "Differenze nella retribuzione oraria lorda media tra lavoratori retribuiti uomini e donne, espresse in percentuale della retribuzione oraria lorda media dei lavoratori retribuiti uomini. Media UE: 12,0%",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Nessun dato disponibile per la Grecia.",
+  "textNote": "Tutti i dati sono provvisori.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"

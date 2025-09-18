@@ -1,12 +1,12 @@
 {
-  "heading": "Rozdíl v odměňování žen a mužů v zemích EU v roce 2022",
-  "subheading": "Rozdíly v průměrné hrubé hodinové mzdě mezi placenými muži a ženami vyjádřené jako procento průměrné hrubé hodinové mzdy placených mužů. Průměr EU: 12,7 %",
+  "heading": "Rozdíl v odměňování žen a mužů v zemích EU v roce 2023",
+  "subheading": "Rozdíly v průměrné hrubé hodinové mzdě mezi placenými muži a ženami vyjádřené jako procento průměrné hrubé hodinové mzdy placených mužů. Průměr EU: 12,0 %",
   "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Pro Řecko nejsou k dispozici žádné údaje.",
+  "textNote": "Všechny údaje jsou předběžné.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"

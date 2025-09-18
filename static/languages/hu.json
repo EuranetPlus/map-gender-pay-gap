@@ -1,12 +1,12 @@
 {
-  "heading": "Nemek közötti bérszakadék az EU-országokban 2022-ben",
-  "subheading": "A férfi és női fizetett munkavállalók átlagos bruttó órabére közötti különbségek a férfi fizetett munkavállalók átlagos bruttó órabérének százalékában kifejezve. EU-s átlag: 12,7%",
+  "heading": "Nemek közötti bérszakadék az EU-országokban 2023-ban",
+  "subheading": "A férfi és női fizetett munkavállalók átlagos bruttó órabére közötti különbségek a férfi fizetett munkavállalók átlagos bruttó órabérének százalékában kifejezve. EU-s átlag: 12,0%",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Görögországra vonatkozóan nincsenek elérhető adatok.",
+  "textNote": "Minden adat előzetes.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

@@ -1,12 +1,12 @@
 {
-  "heading": "Kønsbestemt lønforskel i EU-landene i 2022",
-  "subheading": "Forskellene i gennemsnitlig bruttotimeløn mellem mandlige og kvindelige lønnede arbejdstagere udtrykt som procentdel af den gennemsnitlige bruttotimeløn for mandlige lønnede arbejdstagere. EU-gennemsnit: 12,7 %",
+  "heading": "Kønsbestemt lønforskel i EU-landene i 2023",
+  "subheading": "Forskellene i gennemsnitlig bruttotimeløn mellem mandlige og kvindelige lønnede arbejdstagere udtrykt som procentdel af den gennemsnitlige bruttotimeløn for mandlige lønnede arbejdstagere. EU-gennemsnit: 12,0 %",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Ingen data tilgængelige for Grækenland.",
+  "textNote": "Alle data er foreløbige.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Klik for mere information"

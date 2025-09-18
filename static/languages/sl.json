@@ -1,12 +1,12 @@
 {
-  "heading": "Razlika v plačah med spoloma v državah EU v letu 2022",
-  "subheading": "Razlike v povprečni bruto urni postavki med plačanimi moškimi in ženskami, izražene kot odstotek povprečne bruto urne postavke plačanih moških. Povprečje EU: 12,7 %",
+  "heading": "Razlika v plačah med spoloma v državah EU v letu 2023",
+  "subheading": "Razlike v povprečni bruto urni postavki med plačanimi moškimi in ženskami, izražene kot odstotek povprečne bruto urne postavke plačanih moških. Povprečje EU: 12,0 %",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Za Grčijo ni na voljo podatkov.",
+  "textNote": "Vsi podatki so začasni.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

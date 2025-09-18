@@ -1,12 +1,12 @@
 {
-  "heading": "Écart de rémunération entre les hommes et les femmes dans les pays de l'UE en 2022",
-  "subheading": "Différences de salaire horaire brut moyen entre hommes et femmes, exprimées en pourcentage du salaire horaire brut moyen des hommes. Moyenne UE : 12,7 %.",
+  "heading": "Écart de rémunération entre les hommes et les femmes dans les pays de l'UE en 2023",
+  "subheading": "Différences de salaire horaire brut moyen entre hommes et femmes, exprimées en pourcentage du salaire horaire brut moyen des hommes. Moyenne UE : 12,0 %.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Aucune donnée disponible pour la Grèce.",
+  "textNote": "Toutes les données sont provisoires.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

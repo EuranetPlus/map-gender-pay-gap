@@ -1,12 +1,12 @@
 {
-  "heading": "Gender pay gap across EU countries in 2022",
-  "subheading": "The differences in average gross hourly wages between male and female paid workers expressed as a percentage of the average gross hourly wages of male paid workers. EU average:12.7%",
+  "heading": "Gender pay gap across EU countries in 2023",
+  "subheading": "The differences in average gross hourly wages between male and female paid workers expressed as a percentage of the average gross hourly wages of male paid workers. EU average: 12.0%",
   "legend1": "No data available",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "No data available for Greece.",
+  "textNote": "All data are provisional.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Click for more info"
