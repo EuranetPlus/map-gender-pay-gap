@@ -1,12 +1,12 @@
 {
-  "heading": "Lyčių darbo užmokesčio skirtumas ES šalyse 2023 m.",
-  "subheading": "Vidutinio valandinio bruto darbo užmokesčio skirtumai tarp apmokamų vyrų ir moterų, išreikšti procentais nuo vidutinio valandinio vyrų bruto darbo užmokesčio. ES vidurkis: 12,0 %.",
+  "heading": "Ar mūsų šalyje moterys gauna teisingą atlyginimą, palyginti su jų kolegomis vyrais?",
+  "subheading": "2023 m. vidutinis moterų darbuotojų valandinis bruto darbo užmokestis ES buvo 12 procentų mažesnis nei vyrų darbuotojų.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Visi duomenys yra preliminarūs.",
+  "textNote": "Vidutinio valandinio bruto darbo užmokesčio skirtumai tarp apmokamų vyrų ir moterų, išreikšti procentais nuo vidutinio valandinio vyrų bruto darbo užmokesčio. Visi duomenys yra preliminarūs.",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

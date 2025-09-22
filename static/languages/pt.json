@@ -1,12 +1,12 @@
 {
-  "heading": "Diferença salarial entre homens e mulheres nos países da UE em 2023",
-  "subheading": "Diferenças nos salários horários brutos médios entre trabalhadores assalariados do sexo masculino e feminino, expressas em percentagem dos salários horários brutos médios dos trabalhadores assalariados do sexo masculino. Média da UE: 12,0%.",
+  "heading": "As mulheres em nosso país são pagas de forma justa em comparação aos seus colegas homens?",
+  "subheading": "O salário bruto médio por hora das funcionárias na UE era 12% menor que o dos funcionários em 2023.",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Todos os dados são provisórios.",
+  "textNote": "Diferenças nos salários brutos médios por hora entre trabalhadores assalariados do sexo masculino e feminino, expressas como uma porcentagem dos salários brutos médios por hora dos trabalhadores assalariados do sexo masculino. Todos os dados são provisórios.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

@@ -1,12 +1,12 @@
 {
-  "heading": "Sooline palgalõhe ELi riikides 2023. aastal",
-  "subheading": "Meeste ja naiste palgatöötajate keskmise brutotunnipalga erinevused, väljendatuna meeste palgatöötajate keskmise brutotunnipalga protsendina. ELi keskmine: 12,0%",
+  "heading": "Kas naistele makstakse meie riigis meessoost kolleegidega võrreldes õiglast palka?",
+  "subheading": "Naistöötajate keskmine brutotunnipalk EL-is oli 2023. aastal 12 protsenti väiksem kui meestöötajatel.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Kõik andmed on esialgsed.",
+  "textNote": "Meeste ja naiste palgatöötajate keskmise brutotunnipalga erinevused, väljendatuna meeste palgatöötajate keskmise brutotunnipalga protsendina. Kõik andmed on esialgsed.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

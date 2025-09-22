@@ -1,12 +1,12 @@
 {
-  "heading": "Różnica w wynagrodzeniach kobiet i mężczyzn w krajach UE w 2023 r.",
-  "subheading": "Różnice w średnich stawkach godzinowych brutto między pracownikami płci męskiej i żeńskiej wyrażone jako procent średnich stawek godzinowych brutto pracowników płci męskiej. Średnia UE: 12,0%.",
+  "heading": "Czy kobiety w naszym kraju otrzymują godziwe wynagrodzenie w porównaniu do swoich kolegów?",
+  "subheading": "W 2023 r. przeciętne wynagrodzenie godzinowe brutto kobiet w UE było o 12 proc. niższe od wynagrodzenia mężczyzn.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Wszystkie dane są tymczasowe.",
+  "textNote": "Różnice w średnich stawkach godzinowych brutto między pracownikami płci męskiej i żeńskiej wyrażone jako procent średnich stawek godzinowych brutto pracowników płci męskiej. Wszystkie dane mają charakter tymczasowy.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

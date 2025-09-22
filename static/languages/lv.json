@@ -1,12 +1,12 @@
 {
-  "heading": "Dzimumu atalgojuma atšķirība ES valstīs 2023. gadā",
-  "subheading": "Atšķirības starp vīriešu un sieviešu vidējo bruto stundas algu, izteiktas procentos no vīriešu vidējās bruto stundas algas. ES vidējais rādītājs: 12,0 %",
+  "heading": "Vai sievietes mūsu valstī ir vienlīdzīgi atalgotas, salīdzinot ar viņu vīriešu kārtas kolēģiem?",
+  "subheading": "2023. gadā sieviešu vidējā bruto stundas alga ES bija par 12 procentiem mazāka nekā vīriešu darba ņēmēju alga.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Visi dati ir provizoriski.",
+  "textNote": "Atšķirības starp vīriešu un sieviešu vidējo bruto stundas algu, izteiktas procentos no vīriešu vidējās bruto stundas algas. Visi dati ir provizoriski.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

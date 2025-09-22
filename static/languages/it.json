@@ -1,12 +1,12 @@
 {
-  "heading": "Divario retributivo di genere nei paesi dell'UE nel 2023",
-  "subheading": "Differenze nella retribuzione oraria lorda media tra lavoratori retribuiti uomini e donne, espresse in percentuale della retribuzione oraria lorda media dei lavoratori retribuiti uomini. Media UE: 12,0%",
+  "heading": "Nel nostro Paese le donne sono pagate equamente rispetto ai loro colleghi uomini?",
+  "subheading": "Nel 2023, la retribuzione oraria lorda media delle lavoratrici nell'UE era inferiore del 12% rispetto a quella dei lavoratori uomini.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Tutti i dati sono provvisori.",
+  "textNote": "Differenze nella retribuzione oraria lorda media tra lavoratori retribuiti uomini e donne, espresse in percentuale della retribuzione oraria lorda media dei lavoratori retribuiti uomini. Tutti i dati sono provvisori.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"

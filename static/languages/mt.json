@@ -1,12 +1,12 @@
 {
-  "heading": "Id-differenza fil-pagi bejn is-sessi fil-pajjiżi tal-UE fl-2023",
-  "subheading": "Id-differenzi fil-pagi grossi medji fis-siegħa bejn ħaddiema rġiel u nisa mħallsa espressi bħala perċentwal tal-pagi grossi medji fis-siegħa tal-ħaddiema rġiel imħallsa. Medja tal-UE: 12.0%",
+  "heading": "In-nisa f'pajjiżna jitħallsu b'mod ġust meta mqabbla mal-kollegi rġiel tagħhom?",
+  "subheading": "Il-paga grossa medja fis-siegħa tal-impjegati nisa fl-UE kienet 12 fil-mija inqas minn dik tal-impjegati rġiel fl-2023.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta kollha hija proviżorja.",
+  "textNote": "Id-differenzi fil-pagi grossi medji fis-siegħa bejn ħaddiema rġiel u nisa mħallsa espressi bħala perċentwal tal-pagi grossi medji fis-siegħa tal-ħaddiema rġiel imħallsa. Id-dejta kollha hija proviżorja.",
   "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"

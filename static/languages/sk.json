@@ -1,12 +1,12 @@
 {
-  "heading": "Rozdiel v odmeňovaní mužov a žien v krajinách EÚ v roku 2023",
-  "subheading": "Rozdiely v priemerných hrubých hodinových mzdách medzi mužmi a ženami vyjadrené ako percento z priemerných hrubých hodinových mzdy mužov. Priemer EÚ: 12,0 %",
+  "heading": "Sú ženy v našej krajine platené spravodlivo v porovnaní s ich mužskými kolegami?",
+  "subheading": "Priemerná hrubá hodinová mzda zamestnancov žien v EÚ bola v roku 2023 o 12 percent nižšia ako u zamestnancov mužov.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Všetky údaje sú predbežné.",
+  "textNote": "Rozdiely v priemerných hrubých hodinových mzdách medzi mužmi a ženami vyjadrené ako percento z priemerných hrubých hodinových mzdy mužov. Všetky údaje sú predbežné.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"

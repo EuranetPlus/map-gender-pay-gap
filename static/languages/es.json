@@ -1,12 +1,12 @@
 {
-  "heading": "Brecha salarial de género en los países de la UE en 2023",
-  "subheading": "Diferencias en el salario bruto medio por hora entre trabajadores asalariados, hombres y mujeres, expresadas como porcentaje del salario bruto medio por hora de los trabajadores asalariados. Media de la UE: 12,0 %.",
+  "heading": "¿Las mujeres de nuestro país reciben un salario justo en comparación con sus colegas masculinos?",
+  "subheading": "En 2023, el salario bruto medio por hora de las empleadas en la UE fue un 12 por ciento inferior al de los empleados.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Todos los datos son provisionales.",
+  "textNote": "Diferencias en el salario bruto promedio por hora entre trabajadores asalariados, expresado como porcentaje del salario bruto promedio por hora de los trabajadores asalariados. Todos los datos son provisionales.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
