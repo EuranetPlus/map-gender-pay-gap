@@ -1,12 +1,12 @@
 {
-  "heading": "As mulheres em nosso país são pagas de forma justa em comparação aos seus colegas homens?",
-  "subheading": "O salário bruto médio por hora das funcionárias na UE era 12% menor que o dos funcionários em 2023.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "As mulheres em nosso país recebem salários justos em comparação com seus colegas homens?",
+  "subheading": "Em 2024, o salário bruto médio por hora das mulheres trabalhadoras na UE era 11,1% inferior ao dos homens.",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Observação",
-  "textNote": "Diferenças nos salários brutos médios por hora entre trabalhadores assalariados do sexo masculino e feminino, expressas como uma porcentagem dos salários brutos médios por hora dos trabalhadores assalariados do sexo masculino. Todos os dados são provisórios.",
+  "textNote": "Diferenças nos salários brutos médios por hora entre trabalhadores assalariados do sexo masculino e feminino, expressas como percentagem dos salários brutos médios por hora dos trabalhadores assalariados do sexo masculino. Todos os dados são provisórios.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

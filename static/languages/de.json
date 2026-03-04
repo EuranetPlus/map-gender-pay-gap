@@ -1,13 +1,13 @@
 {
   "heading": "Werden Frauen in unserem Land im Vergleich zu ihren männlichen Kollegen fair bezahlt?",
-  "subheading": "Der durchschnittliche Bruttostundenlohn weiblicher Arbeitnehmer in der EU lag im Jahr 2023 um 12 Prozent unter dem männlicher Arbeitnehmer.",
+  "subheading": "Der durchschnittliche Bruttostundenlohn weiblicher Arbeitnehmer in der EU lag im Jahr 2024 um 11,1 Prozent niedriger als der männlicher Arbeitnehmer.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Unterschiede im durchschnittlichen Bruttostundenlohn zwischen männlichen und weiblichen Arbeitnehmern, ausgedrückt als Prozentsatz des durchschnittlichen Bruttostundenlohns männlicher Arbeitnehmer. Alle Daten sind vorläufig.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Die Unterschiede im durchschnittlichen Bruttostundenlohn zwischen männlichen und weiblichen Arbeitnehmern werden als Prozentsatz des durchschnittlichen Bruttostundenlohns der männlichen Arbeitnehmer ausgedrückt. Alle Daten sind vorläufig.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

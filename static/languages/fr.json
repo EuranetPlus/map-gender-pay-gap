@@ -1,13 +1,13 @@
 {
-  "heading": "Les femmes de notre pays sont-elles payées équitablement par rapport à leurs collègues masculins ?",
-  "subheading": "En 2023, le salaire horaire brut moyen des femmes salariées dans l’UE était inférieur de 12 % à celui des hommes salariés.",
+  "heading": "Les femmes sont-elles rémunérées équitablement dans notre pays par rapport à leurs collègues masculins ?",
+  "subheading": "En 2024, le salaire horaire brut moyen des employées dans l'UE était inférieur de 11,1 % à celui des employés masculins.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Note",
-  "textNote": "Différences de salaire horaire brut moyen entre les hommes et les femmes, exprimées en pourcentage du salaire horaire brut moyen des hommes. Toutes les données sont provisoires.",
+  "textNote": "Les écarts de salaire horaire brut moyen entre les salariés masculins et féminins sont exprimés en pourcentage du salaire horaire brut moyen des salariés masculins. Toutes les données sont provisoires.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

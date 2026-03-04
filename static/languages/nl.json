@@ -1,13 +1,13 @@
 {
-  "heading": "Worden vrouwen in ons land eerlijk betaald vergeleken met hun mannelijke collega's?",
-  "subheading": "Het gemiddelde bruto-uurloon van vrouwelijke werknemers in de EU lag in 2023 12 procent lager dan dat van mannelijke werknemers.",
+  "heading": "Worden vrouwen in ons land eerlijk betaald in vergelijking met hun mannelijke collega's?",
+  "subheading": "Het gemiddelde bruto uurloon van vrouwelijke werknemers in de EU lag in 2024 11,1 procent lager dan dat van mannelijke werknemers.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Opmerking",
-  "textNote": "Verschillen in gemiddeld bruto-uurloon tussen mannelijke en vrouwelijke werknemers, uitgedrukt als percentage van het gemiddelde bruto-uurloon van mannelijke werknemers. Alle gegevens zijn voorlopig.",
+  "textNote": "De verschillen in gemiddeld bruto uurloon tussen mannelijke en vrouwelijke werknemers, uitgedrukt als percentage van het gemiddelde bruto uurloon van mannelijke werknemers. Alle gegevens zijn voorlopig.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_05_20/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }
